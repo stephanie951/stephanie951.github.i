@@ -1,0 +1,58 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(4, 4, 4);
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+.tribute{
+    text-align: center;
+}
+.heading{
+    font-size: 4em;
+    margin-bottom: 5px;
+}
+.heading-text{
+    font-size: 1em;
+}
+.pic{
+    border: 1px solid white;
+    background-color: white;
+    margin: 3em;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.img_caption{
+    color: black;
+}
+figcaption{
+    line-height: 2.5em;
+}
+section h2{
+    margin: 3em 0 20px 0;
+}
+.timeline{
+    max-width: 600px;
+    margin: auto;
+}
+.timeline_list{
+    text-align: left;
+    line-height: 3em;
+}
+.life{
+    line-height: 3em;
+     max-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    font-style: italic;
+    text-align: left;
+}
+footer{
+    text-align: center;
+    border: 1px solid white;
+    padding: 0.5em 0;
+}
+
+
